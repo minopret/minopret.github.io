@@ -1,0 +1,7 @@
+html {
+  font-size: x-large;
+  max-width: 40em;
+}
+input[type='text'] {
+  font-size: 120%;
+}
